@@ -38,6 +38,7 @@
 	.generic-image
 	{
 		margin-top: 250px;
+
 		.call-to-action
 		{
 			margin-top: -390px;
@@ -50,6 +51,17 @@
 		.jumbotron
 		{
 			padding-top:40px;
+
+			.call-to-action
+			{
+				margin-top: 0;
+			}
+		}
+
+		.generic-image
+		{
+			margin-top: 0;
+			padding-top: 0;
 
 			.call-to-action
 			{
